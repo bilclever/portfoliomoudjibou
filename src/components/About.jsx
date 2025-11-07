@@ -27,7 +27,7 @@ const About = () => {
         "Fonctionnalités : objectifs sportifs, enregistrement séances, métriques (distance, durée, vitesse), challenges communautaires",
         "Système de messagerie et interactions sociales entre utilisateurs"
       ],
-      technologies: ["Django", "Python", "Flutter", "REST APIs", "Base de données"],
+      technologies: ["Django", "Python", "Flutter", "REST APIs", "PostgreSQL"],
       type: "stage"
     }
   ];
