@@ -9,7 +9,7 @@ const Hero = () => {
           {/* Texte principal */}
           <div className="text-center lg:text-left animate-slide-up">
             <div className="inline-block bg-blue-100 text-blue-800 px-4 py-2 rounded-full text-sm font-medium mb-6">
-              📊 Data Scientist & Évaluateur de Programmes
+              📊 Analyste staticient & Spécialiste suivie evaluation
             </div>
             
             <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
@@ -17,7 +17,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              Expert en suivi-évaluation, analyse de données et data science. 
+              spécialiste en suivi-évaluation et analyse de données. <br /> 
               Je transforme les données complexes en insights actionnables pour le développement durable.
             </p>
             
@@ -50,7 +50,7 @@ const Hero = () => {
               </div>
               
               <div className="space-y-4">
-                {['Data Analysis', 'Impact Evaluation', 'MEAL Systems'].map((skill, index) => (
+                {['Data Analysis', 'Planification Statistique', 'Suivie Evaluation','Recherche Qualitative et Quantitative'].map((skill, index) => (
                   <div key={index}>
                     <div className="flex justify-between text-sm mb-1">
                       <span className="text-gray-700">{skill}</span>

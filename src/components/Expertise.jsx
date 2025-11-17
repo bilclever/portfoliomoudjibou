@@ -5,20 +5,20 @@ const Expertise = () => {
     {
       icon: "📈",
       title: "Suivi-Évaluation",
-      description: "Systèmes MEAL, indicateurs de performance, tableaux de bord",
-      tools: ["Power BI", "Tableau", "Excel", "Kobotoolbox"]
+      description: "Systèmes MEAL, evaluation de projet programme, planification operationnel",
+      tools: ["Kobo Toolbox", "ODK", "Excel", "Power BI"]
     },
     {
       icon: "🔍",
-      title: "Évaluation d'Impact",
-      description: "Méthodologies rigoureuses, analyse contre-factuelle, RCT",
-      tools: ["STATA", "R", "Python", "SPSS"]
+      title: "Planification Statistique",
+      description: "Conception et structuration d’analyses statistiques pour optimiser la prise de décision.",
+      tools: ["STATA", "R", "SPSS", "Python"]
     },
     {
       icon: "💻",
-      title: "Data Science",
-      description: "Analyse prédictive, machine learning, visualisation avancée",
-      tools: ["Python", "R", "SQL", "Power BI"]
+      title: "Recherche Qualitative et Quantitative",
+      description: "Collecte de données, entretiens, enquêtes, analyses statistiques et thématiques",
+      tools: ["Python", "R", "Excel", "SPSS"]
     },
     {
       icon: "📋",

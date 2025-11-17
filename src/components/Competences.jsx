@@ -75,7 +75,7 @@ const Competences = () => {
             <div className="mt-12">
               <h4 className="text-xl font-bold mb-6 text-center lg:text-left">Langues</h4>
               <div className="grid grid-cols-2 sm:grid-cols-3 gap-4">
-                {['Français', 'English (IELTS 5.5)', 'Yoruba', 'Kabyè', 'Kotokoli', 'Arabe'].map((langue, index) => (
+                {['Français', 'English', 'Yoruba', 'Kabyè', 'Kotokoli', 'Arabe'].map((langue, index) => (
                   <div 
                     key={index}
                     className="bg-white rounded-lg p-3 text-center shadow-sm card-hover"
