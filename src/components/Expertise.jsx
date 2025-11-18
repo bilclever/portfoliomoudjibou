@@ -10,9 +10,9 @@ const Expertise = () => {
     },
     {
       icon: "🔍",
-      title: "Planification Statistique",
-      description: "Conception et structuration d’analyses statistiques pour optimiser la prise de décision.",
-      tools: ["STATA", "R", "SPSS", "Python"]
+      title: "Planification Stratégique",
+      description: "Élaboration de visions à long terme pour atteindre les objectifs organisationnels.",
+      tools: ["MS Project", "Gantproject"]
     },
     {
       icon: "💻",

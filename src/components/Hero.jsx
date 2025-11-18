@@ -17,7 +17,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              spécialiste en suivi-évaluation et analyse de données. <br /> 
+              Spécialiste en suivi-évaluation et analyse de données. <br /> 
               Je transforme les données complexes en insights actionnables pour le développement durable.
             </p>
             
@@ -50,7 +50,7 @@ const Hero = () => {
               </div>
               
               <div className="space-y-4">
-                {['Data Analysis', 'Planification Statistique', 'Suivie Evaluation','Recherche Qualitative et Quantitative'].map((skill, index) => (
+                {['Data Analysis', 'Planification Stratégique', 'Suivie Evaluation','Recherche Qualitative et Quantitative'].map((skill, index) => (
                   <div key={index}>
                     <div className="flex justify-between text-sm mb-1">
                       <span className="text-gray-700">{skill}</span>

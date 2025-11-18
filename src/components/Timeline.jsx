@@ -5,7 +5,7 @@ const Timeline = () => {
     {
       year: "2025",
       title: "Assistant en Statistique, Planification et Suivi-Évaluation",
-      organization: "Ministère de la Sécurité et de la Protection Civile",
+      organization: "Ministère de la Sécurité",
       duration: "Février 2025 - Juin 2025",
       achievements: [
         "Production de statistiques sur accidents routiers, cybercriminalité et justice populaire",
@@ -23,7 +23,7 @@ const Timeline = () => {
       duration: "Novembre 2024",
       achievements: [
         "2ème place mondiale en évaluation de cas",
-        "Élaboration de plans de renforcement capacitaire pour ONG",
+        "Élaboration de plans de renforcement de capacités pour une ONG",
         "Expertise évaluée par des experts mondiaux en évaluation"
       ],
       type: "achievement"
